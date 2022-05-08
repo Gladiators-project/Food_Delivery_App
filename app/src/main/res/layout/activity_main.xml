@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/Black"
-    tools:context="my.food_on.app.MainActivity">
+    tools:context="com.food_on.app.MainActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -26,7 +26,7 @@
         android:layout_width="217dp"
         android:layout_height="30dp"
         android:fontFamily="@font/caudex"
-        android:text="Mufaddal Shakir"
+        android:text="Created By Gladitors"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="#FDFDFD"
